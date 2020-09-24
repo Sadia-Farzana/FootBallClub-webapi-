@@ -5,10 +5,12 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
-namespace FootBallClub.Models
+namespace FootballClub.Models
 {
     public class Player
     {
+        public int id { get; set; }
+
         [Key]
         [Column(TypeName = "varchar"), StringLength(50), Display(Name = "User Name")]
         [Required(ErrorMessage = "User Name can not be empty")]
@@ -40,13 +42,13 @@ namespace FootBallClub.Models
         public int phone { get; set; }
 
         [Column(TypeName = "varchar"), StringLength(50), Display(Name = "Position")]
-        [Required(ErrorMessage = "Position can not be empty")]
+        
         public string position { get; set; }
 
 
-        [Column(TypeName = "float"), Display(Name = "Salary")]
-        [Required(ErrorMessage = "Salary Fees can not be empty")]
-        public int salary { get; set; }
+        [ Display(Name = "Salary")]
+        
+        public double salary { get; set; }
 
         [Column(TypeName = "varchar"), StringLength(50), Display(Name = "Type")]
         [Required(ErrorMessage = "Type can not be empty")]

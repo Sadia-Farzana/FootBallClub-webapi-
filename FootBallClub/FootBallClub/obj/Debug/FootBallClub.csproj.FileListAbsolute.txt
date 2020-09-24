@@ -1,71 +1,716 @@
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\FootBallClub.dll.config
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\FootBallClub.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\FootBallClub.pdb
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\csc.exe
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\csc.exe.config
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\csc.rsp
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\csi.exe
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\csi.exe.config
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\csi.rsp
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\Microsoft.CodeAnalysis.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\Microsoft.CSharp.Core.targets
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\Microsoft.Managed.Core.targets
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\Microsoft.Win32.Primitives.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.AppContext.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Collections.Immutable.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Console.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Diagnostics.StackTrace.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Globalization.Calendars.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.IO.Compression.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.IO.Compression.ZipFile.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.IO.FileSystem.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.IO.FileSystem.Primitives.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Net.Http.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Net.Sockets.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Reflection.Metadata.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Security.Cryptography.Encoding.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Security.Cryptography.Primitives.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Text.Encoding.CodePages.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Threading.Tasks.Extensions.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.ValueTuple.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Xml.ReaderWriter.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Xml.XmlDocument.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Xml.XPath.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\System.Xml.XPath.XDocument.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\vbc.exe
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\vbc.exe.config
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\vbc.rsp
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\VBCSCompiler.exe
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\roslyn\VBCSCompiler.exe.config
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\EntityFramework.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\EntityFramework.SqlServer.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\Newtonsoft.Json.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\System.Net.Http.Formatting.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\System.Web.Http.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\System.Web.Http.WebHost.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\EntityFramework.xml
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\EntityFramework.SqlServer.xml
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\Newtonsoft.Json.xml
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\System.Net.Http.Formatting.xml
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\System.Web.Http.xml
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\System.Web.Http.WebHost.xml
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\obj\Debug\FootBallClub.csprojAssemblyReference.cache
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\obj\Debug\FootBallClub.csproj.CoreCompileInputs.cache
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\obj\Debug\FootBallClub.csproj.CopyComplete
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\obj\Debug\FootBallClub.dll
-F:\AIUB\11th_SEMESTER\.NET\FINAL\FootBallClub-webapi-\FootBallClub\FootBallClub\obj\Debug\FootBallClub.pdb
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\FootballClub.dll.config
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\FootballClub.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\FootballClub.pdb
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\csc.exe
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\csc.exe.config
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\csc.rsp
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\csi.exe
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\csi.exe.config
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\csi.rsp
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.Managed.Core.targets
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.AppContext.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Collections.Immutable.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Console.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.IO.Compression.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.IO.FileSystem.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.IO.Pipes.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Reflection.Metadata.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.AccessControl.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Claims.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Principal.Windows.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.ValueTuple.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Xml.XmlDocument.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Xml.XPath.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\vbc.exe
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\vbc.exe.config
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\vbc.rsp
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\VBCSCompiler.exe
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\roslyn\VBCSCompiler.exe.config
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Win32.Primitives.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\netstandard.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.AppContext.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Collections.Concurrent.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Collections.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Collections.NonGeneric.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Collections.Specialized.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.ComponentModel.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.ComponentModel.EventBasedAsync.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.ComponentModel.Primitives.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.ComponentModel.TypeConverter.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Console.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Data.Common.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.Contracts.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.Debug.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.FileVersionInfo.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.Process.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.StackTrace.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.Tools.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.TraceSource.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.Tracing.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Drawing.Primitives.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Dynamic.Runtime.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Globalization.Calendars.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Globalization.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Globalization.Extensions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.IO.Compression.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.IO.Compression.ZipFile.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.IO.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.IO.FileSystem.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.IO.FileSystem.DriveInfo.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.IO.FileSystem.Primitives.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.IO.FileSystem.Watcher.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.IO.IsolatedStorage.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.IO.MemoryMappedFiles.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.IO.Pipes.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.IO.UnmanagedMemoryStream.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Linq.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Linq.Expressions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Linq.Parallel.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Linq.Queryable.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Net.Http.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Net.NameResolution.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Net.NetworkInformation.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Net.Ping.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Net.Primitives.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Net.Requests.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Net.Security.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Net.Sockets.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Net.WebHeaderCollection.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Net.WebSockets.Client.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Net.WebSockets.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.ObjectModel.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Reflection.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Reflection.Extensions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Reflection.Primitives.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Resources.Reader.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Resources.ResourceManager.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Resources.Writer.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Runtime.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Extensions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Handles.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Runtime.InteropServices.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Numerics.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Serialization.Formatters.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Serialization.Json.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Serialization.Primitives.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Serialization.Xml.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Security.Claims.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Security.Cryptography.Algorithms.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Security.Cryptography.Csp.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Security.Cryptography.Encoding.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Security.Cryptography.Primitives.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Security.Cryptography.X509Certificates.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Security.Principal.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Security.SecureString.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Text.Encoding.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Text.Encoding.Extensions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Text.RegularExpressions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Threading.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Threading.Overlapped.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Threading.Tasks.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Threading.Tasks.Parallel.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Threading.Thread.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Threading.ThreadPool.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Threading.Timer.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.ValueTuple.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Xml.ReaderWriter.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Xml.XDocument.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Xml.XmlDocument.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Xml.XmlSerializer.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Xml.XPath.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Xml.XPath.XDocument.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\EntityFramework.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\EntityFramework.SqlServer.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authorization.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Cors.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Routing.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.DependencyModel.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.ObjectPool.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Options.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Primitives.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Net.Http.Headers.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Newtonsoft.Json.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Buffers.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.ComponentModel.Annotations.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.DiagnosticSource.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Memory.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Net.Http.Formatting.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Numerics.Vectors.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Text.Encodings.Web.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Threading.Tasks.Extensions.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Web.Cors.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Web.Http.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Web.Http.WebHost.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\EntityFramework.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\EntityFramework.SqlServer.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authorization.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Cors.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Routing.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.ObjectPool.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Options.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Primitives.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.Net.Http.Headers.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Buffers.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.DiagnosticSource.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Memory.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Numerics.Vectors.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Text.Encodings.Web.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Threading.Tasks.Extensions.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Newtonsoft.Json.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Net.Http.Formatting.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Web.Http.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\System.Web.Http.WebHost.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.csprojAssemblyReference.cache
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.csproj.CoreCompileInputs.cache
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.csproj.CopyComplete
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.dll
+E:\A.I.U.B\Summer 2020\ADVANCED PROGRAMMING WITH .NET [A]\Project\Git_COLON\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.pdb
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\FootballClub.dll.config
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\FootballClub.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\FootballClub.pdb
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Claims.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\netstandard.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.AppContext.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Collections.Concurrent.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Collections.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Collections.NonGeneric.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Collections.Specialized.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.ComponentModel.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.ComponentModel.Primitives.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Console.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Data.Common.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.Contracts.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.Debug.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.Process.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.Tools.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.TraceSource.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.Tracing.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Drawing.Primitives.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Dynamic.Runtime.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Globalization.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Globalization.Extensions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.IO.Compression.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.IO.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.IO.IsolatedStorage.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.IO.Pipes.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Linq.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Linq.Expressions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Linq.Parallel.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Linq.Queryable.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Net.Http.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Net.NameResolution.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Net.NetworkInformation.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Net.Ping.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Net.Primitives.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Net.Requests.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Net.Security.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Net.WebHeaderCollection.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Net.WebSockets.Client.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Net.WebSockets.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.ObjectModel.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Reflection.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Reflection.Extensions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Reflection.Primitives.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Resources.Reader.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Resources.ResourceManager.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Resources.Writer.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Runtime.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Extensions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Handles.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Runtime.InteropServices.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Numerics.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Serialization.Json.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Security.Claims.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Security.Cryptography.Csp.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Security.Principal.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Security.SecureString.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Text.Encoding.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Text.Encoding.Extensions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Text.RegularExpressions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Threading.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Threading.Overlapped.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Threading.Tasks.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Threading.Thread.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Threading.ThreadPool.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Threading.Timer.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.ValueTuple.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Xml.XDocument.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Xml.XmlSerializer.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Buffers.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.ComponentModel.Annotations.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Memory.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Web.Cors.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Web.Http.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Options.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Buffers.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Memory.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Text.Encodings.Web.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Web.Http.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.csproj.CopyComplete
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.dll
+C:\Users\DELL\Desktop\codes\final\final\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.pdb
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\FootballClub.dll.config
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\FootballClub.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\FootballClub.pdb
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\csc.exe
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\csc.exe.config
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\csc.rsp
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\csi.exe
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\csi.exe.config
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\csi.rsp
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.Managed.Core.targets
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.AppContext.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Collections.Immutable.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Console.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.IO.Compression.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.IO.FileSystem.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.IO.Pipes.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Reflection.Metadata.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.AccessControl.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Claims.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Security.Principal.Windows.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.ValueTuple.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Xml.XmlDocument.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Xml.XPath.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\vbc.exe
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\vbc.exe.config
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\vbc.rsp
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\VBCSCompiler.exe
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\roslyn\VBCSCompiler.exe.config
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Win32.Primitives.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\netstandard.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.AppContext.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Collections.Concurrent.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Collections.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Collections.NonGeneric.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Collections.Specialized.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.ComponentModel.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.ComponentModel.EventBasedAsync.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.ComponentModel.Primitives.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.ComponentModel.TypeConverter.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Console.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Data.Common.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.Contracts.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.Debug.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.FileVersionInfo.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.Process.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.StackTrace.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.Tools.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.TraceSource.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.Tracing.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Drawing.Primitives.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Dynamic.Runtime.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Globalization.Calendars.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Globalization.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Globalization.Extensions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.IO.Compression.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.IO.Compression.ZipFile.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.IO.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.IO.FileSystem.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.IO.FileSystem.DriveInfo.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.IO.FileSystem.Primitives.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.IO.FileSystem.Watcher.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.IO.IsolatedStorage.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.IO.MemoryMappedFiles.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.IO.Pipes.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.IO.UnmanagedMemoryStream.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Linq.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Linq.Expressions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Linq.Parallel.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Linq.Queryable.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Net.Http.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Net.NameResolution.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Net.NetworkInformation.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Net.Ping.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Net.Primitives.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Net.Requests.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Net.Security.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Net.Sockets.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Net.WebHeaderCollection.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Net.WebSockets.Client.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Net.WebSockets.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.ObjectModel.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Reflection.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Reflection.Extensions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Reflection.Primitives.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Resources.Reader.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Resources.ResourceManager.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Resources.Writer.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Runtime.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Extensions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Handles.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Runtime.InteropServices.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Numerics.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Serialization.Formatters.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Serialization.Json.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Serialization.Primitives.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Runtime.Serialization.Xml.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Security.Claims.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Security.Cryptography.Algorithms.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Security.Cryptography.Csp.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Security.Cryptography.Encoding.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Security.Cryptography.Primitives.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Security.Cryptography.X509Certificates.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Security.Principal.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Security.SecureString.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Text.Encoding.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Text.Encoding.Extensions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Text.RegularExpressions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Threading.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Threading.Overlapped.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Threading.Tasks.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Threading.Tasks.Parallel.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Threading.Thread.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Threading.ThreadPool.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Threading.Timer.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.ValueTuple.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Xml.ReaderWriter.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Xml.XDocument.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Xml.XmlDocument.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Xml.XmlSerializer.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Xml.XPath.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Xml.XPath.XDocument.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\EntityFramework.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\EntityFramework.SqlServer.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authentication.Core.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authorization.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Cors.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Extensions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Features.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Core.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Routing.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.WebUtilities.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.DotNet.PlatformAbstractions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.DependencyInjection.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.DependencyModel.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.ObjectPool.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Options.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Primitives.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Net.Http.Headers.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Newtonsoft.Json.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Buffers.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.ComponentModel.Annotations.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.DiagnosticSource.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Memory.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Net.Http.Formatting.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Numerics.Vectors.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Text.Encodings.Web.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Threading.Tasks.Extensions.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Web.Cors.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Web.Http.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Web.Http.WebHost.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\EntityFramework.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\EntityFramework.SqlServer.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authentication.Core.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authorization.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Cors.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Extensions.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Http.Features.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Core.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Routing.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.AspNetCore.WebUtilities.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.DependencyInjection.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Logging.Abstractions.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.ObjectPool.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Options.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Extensions.Primitives.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.Net.Http.Headers.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Buffers.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Diagnostics.DiagnosticSource.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Memory.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Numerics.Vectors.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Text.Encodings.Web.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Threading.Tasks.Extensions.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Newtonsoft.Json.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Net.Http.Formatting.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Web.Http.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\System.Web.Http.WebHost.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\AIUB\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.csprojAssemblyReference.cache
+F:\AIUB\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.csproj.CoreCompileInputs.cache
+F:\AIUB\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.csproj.CopyComplete
+F:\AIUB\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.dll
+F:\AIUB\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.pdb
+F:\AIUB\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.Migrations.FootBallClub.resources
+F:\AIUB\FootballClub\FootballClub\FootballClub\obj\Debug\FootballClub.csproj.GenerateResource.cache

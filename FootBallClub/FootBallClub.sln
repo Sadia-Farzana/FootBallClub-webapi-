@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootBallClub", "FootBallClub\FootBallClub.csproj", "{76D24797-575B-4FD8-AB03-FB6D464E73A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballClub", "FootballClub\FootballClub.csproj", "{70C5B46B-7F50-4865-9CE5-BD0955458CBD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Attributes", "Attributes", "{F4B15D0C-2941-46A9-A9A9-C4517AC73318}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\11th_SEMESTER\.NET\FINAL\17-33890-1\Final_Assignment\Attributes\AdminBasicAuthorizationAttributes.cs = ..\..\11th_SEMESTER\.NET\FINAL\17-33890-1\Final_Assignment\Attributes\AdminBasicAuthorizationAttributes.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +16,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{76D24797-575B-4FD8-AB03-FB6D464E73A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{76D24797-575B-4FD8-AB03-FB6D464E73A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{76D24797-575B-4FD8-AB03-FB6D464E73A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{76D24797-575B-4FD8-AB03-FB6D464E73A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C5B46B-7F50-4865-9CE5-BD0955458CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C5B46B-7F50-4865-9CE5-BD0955458CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C5B46B-7F50-4865-9CE5-BD0955458CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C5B46B-7F50-4865-9CE5-BD0955458CBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {02D8E266-3B58-42AC-ADE4-A90D59D0BE78}
+		SolutionGuid = {F9828779-DA3A-4159-B6DE-9C4C7BCB34A3}
 	EndGlobalSection
 EndGlobal
